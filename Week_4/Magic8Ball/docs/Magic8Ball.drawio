@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
+  <diagram name="Page-1" id="N08mGF5b0uefJ8vdmnoF">
+    <mxGraphModel dx="1434" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MxGVc7nhaqAjBK-Zfy1j-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="170" width="320" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="MxGVc7nhaqAjBK-Zfy1j-3" value="Main Screen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="355" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxGVc7nhaqAjBK-Zfy1j-5" value="Magic 8 Ball Title" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="300" y="210" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxGVc7nhaqAjBK-Zfy1j-8" value="User Question Input" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="310" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MxGVc7nhaqAjBK-Zfy1j-9" value="Submit Button" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxGVc7nhaqAjBK-Zfy1j-10" value="8 Ball Result" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="620" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxGVc7nhaqAjBK-Zfy1j-11" value="User Question Displayed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="560" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
