@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
+  <diagram name="Page-1" id="xGhEkTc6TNdSPRmASScj">
+    <mxGraphModel dx="1434" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2q3es39ZJclx-VSPUAPn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="170" width="320" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="2q3es39ZJclx-VSPUAPn-2" value="Main Screen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="355" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2q3es39ZJclx-VSPUAPn-3" value="My Top Ten Movies Title" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="275" y="210" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CAw2yuL7Zpd6Bapomx-T-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="260" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="CAw2yuL7Zpd6Bapomx-T-3" value="Movie1 Title" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CAw2yuL7Zpd6Bapomx-T-4" value="Movie1 Rating" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="485" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CAw2yuL7Zpd6Bapomx-T-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CAw2yuL7Zpd6Bapomx-T-7" value="Movie1 Image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="375" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CAw2yuL7Zpd6Bapomx-T-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="540" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="CAw2yuL7Zpd6Bapomx-T-9" value="Movie2 Title" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CAw2yuL7Zpd6Bapomx-T-10" value="Movie2 Rating" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="765" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CAw2yuL7Zpd6Bapomx-T-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="600" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CAw2yuL7Zpd6Bapomx-T-12" value="Movie2 Image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="655" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
