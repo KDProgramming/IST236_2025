@@ -1,12 +1,14 @@
 import { StyleSheet } from "react-native";
+import { Dimensions } from 'react-native';
 
 export const myStyles = StyleSheet.create({
   rootContainer: {
     flex: 1,
     paddingTop: 20,
+    paddingBottom: 20,
     backgroundColor: "#FAF3DD",
     alignItems: "center",
-    justifyContent: "center",
+    justifyContent: "flex-start",
   },
   titleContainer: {
     flex: 1,
@@ -17,7 +19,7 @@ export const myStyles = StyleSheet.create({
     borderWidth: 3,
     borderRadius: 10,
     borderColor: "#8B0000",
-    marginVertical: 10,
+    marginVertical: 20,
   },
   imageContainer: {
     flex: 3,
@@ -28,7 +30,7 @@ export const myStyles = StyleSheet.create({
     marginVertical: 10,
   },
   image: {
-    height: 320,
+    height: "100%",
     width: "100%",
     resizeMode: "cover",
     borderWidth: 4,
@@ -69,13 +71,16 @@ export const myStyles = StyleSheet.create({
   },
   buttonContainer: {
     backgroundColor: "#FFD700",
-    borderWidth: 3,
-    borderColor: "#8B0000",
-    borderRadius: 10,
-    padding: 5,
-    justifyContent: "center",
-    alignItems: "center",
-    marginVertical: 10,
+  borderWidth: 3,
+  borderColor: "#8B0000",
+  borderRadius: 10,
+  padding: 5,
+  justifyContent: "center",
+  alignItems: "center",
+  marginVertical: 10,
+  marginBottom: Dimensions.get('window').height * 0.05,
+  zIndex: 1,
+  pointerEvents: 'auto',
   },
   buttonText: {
     color: "#006400",
