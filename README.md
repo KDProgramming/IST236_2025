@@ -14,12 +14,8 @@ These projects demonstrate various JavaScript, React Native, and TSX concepts, i
 ## How to Run the Projects
 1. Clone this repository:
    git clone https://github.com/KDProgramming/IST236_2025.git
-2. Install Dependencies:
-   npm install
-3. Run the project on Expo Go or an Android Emulator (Android Studio):
-   Expo Go: npx expo start ---tunnel
-   Android Emulator: npm start
-   
+2. Follow the instruction outlined on the project ReadME.md file.
+
 ## Projects
 - [Example Program: Business Information](./Examples/BusinessInformation): An application that functions as a business card.
 - [Week_4: Top 10 Movies Project](./Week_4): An application that showcases my top 10 movies.
