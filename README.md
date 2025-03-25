@@ -10,11 +10,12 @@ These projects demonstrate various JavaScript, React Native, and TSX concepts, i
 - [Week_7: Recipes App](#week-7-recipes-app)
 - [Week_8: Bicycle Repair Shop](#week-8-bicycle-repair-shop)
 - [Week_9: Campground Reservations](#week-9-campground-reservations)
+- [Week_10: Vacation Destinations](#week-10-vacation-destinations)
 
 ## How to Run the Projects
 1. Clone this repository:
    git clone https://github.com/KDProgramming/IST236_2025.git
-2. Follow the instruction outlined on the project ReadME.md file.
+2. Follow the instructions outlined on the project ReadME.md file.
 
 ## Projects
 - [Example Program: Business Information](./Examples/BusinessInformation): An application that functions as a business card.
@@ -23,3 +24,4 @@ These projects demonstrate various JavaScript, React Native, and TSX concepts, i
 - [Week_7: Recipes App](./Week_7/RecipesApp): An application that displays and allows users to add and delete recipes. 
 - [Week_8: Bicycle Repair Shop](./Week_8/BicycleRepairShop): An application that showcases a repair shop and allows the user to choose options befitting a repair shop appointment. 
 - [Week_9: Campground Reservations](./Week_9): An application that functions as a campground reservation app.
+- [Week_10: Vacation Destinations](./Week_10): This application allows the user to choose between 10 countries. Upon choosing a country, two vacation destinations and information about them are displayed, these destinations can be clicked to show an enlarged photo and description of the destination.
