@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
+  <diagram name="Page-1" id="EaSF7aFGCP6JBJSSBCTO">
+    <mxGraphModel dx="1674" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="300" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-3" value="Main Screen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-5" value="Country Name" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="290" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Title&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="210" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-12" value="Country Name" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="290" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="390" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-14" value="Country Name" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="420" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="390" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-16" value="Country Name" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="420" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="520" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-18" value="Country Name" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="550" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="520" width="125" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-20" value="Country Name" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="550" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="190" width="300" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-30" value="Destinations Overview Screen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="140" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="260" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-32" value="Destination Name, average cost to visit, year founded, and average user rating" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Country Name Title&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="210" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-53" value="Image of destination" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="425" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="400" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-55" value="Destination Name, average cost to visit, year founded, and average user rating" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="420" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-56" value="Image of destination" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="425" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="190" width="270" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-58" value="Information Modal Screen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="807.5" y="150" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-59" value="Image of destination" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="765" y="210" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-60" value="Destination Description" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="767.5" y="450" width="215" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6TXC5KhfUUEH3hr5Ym-61" value="Close Button" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
