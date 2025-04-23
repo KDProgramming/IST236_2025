@@ -25,3 +25,4 @@ These projects demonstrate various JavaScript, React Native, and TSX concepts, i
 - [Week_8: Bicycle Repair Shop](./Week_8/BicycleRepairShop): An application that showcases a repair shop and allows the user to choose options befitting a repair shop appointment. 
 - [Week_9: Campground Reservations](./Week_9): An application that functions as a campground reservation app.
 - [Week_10: Vacation Destinations](./Week_10): This application allows the user to choose between 10 countries. Upon choosing a country, two vacation destinations and information about them are displayed, these destinations can be clicked to show an enlarged photo and description of the destination.
+- [Final Project: Daily Wellness](./FinalProject/DailyWellness): This application, made as my final project, functions as a wellness app. Allowing you to enter values into textinput and view those values in a results area.
